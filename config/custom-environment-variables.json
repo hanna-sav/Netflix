@@ -1,5 +1,5 @@
  {
      "mail":{
-        "password":"router_password"
+        "password":"app_password"
     }
  }

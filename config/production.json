@@ -1,5 +1,5 @@
 {
-    "name":"My router production",
+    "name":"My app production",
     "mail":{
         "host":"prod-mail-server"
     }

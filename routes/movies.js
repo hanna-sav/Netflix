@@ -8,7 +8,8 @@ const movies = [
     { id: 3, name: 'Code Da Vinci', genre: 'fantasy' },
     { id: 4, name: 'Harry Potter', genre: 'fantasy' },
     { id: 5, name: '365 dni', genre: 'romance' },
-    { id: 6, name: 'Kargin serial', genre: 'family' }
+    { id: 6, name: 'Kargin serial', genre: 'family' },
+    { id: 5, name: '50 shades of grey', genre: 'romance' }
 ];
 
 router.get('/', (req, res) => {
