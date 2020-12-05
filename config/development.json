@@ -1,0 +1,6 @@
+{
+    "name":"My router development",
+    "mail":{
+        "host":"dev-mail-server"
+    }
+}
